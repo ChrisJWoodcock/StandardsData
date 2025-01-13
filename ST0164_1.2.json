@@ -5,7 +5,7 @@
   "title": "Engineering design technician",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/92",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/engineering-design-technician-12",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0164-v1-2",
   "versionNumber": "1.2",
   "change": "Occupational standard, end point assessment and funding band reviewed",
   "changedDate": "2024-12-27T00:00:00",
@@ -41,7 +41,7 @@
     "Systems design technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-design-technician-v1-2?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0164-v1-2?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -501,8 +501,8 @@
   "lastUpdated": "2024-12-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
   "occupationCode": "OCC0164",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-design-technician-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/engineering-design-technician-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0164-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0164-v1-2",
   "qualifications": [
     {
       "qualificationId": "a4fde687-e4a1-4f82-b97d-629b3c2e5f82",
