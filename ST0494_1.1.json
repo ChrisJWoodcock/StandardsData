@@ -5,7 +5,7 @@
   "title": "Probation service practitioner",
   "status": "Approved for delivery",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/496",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/probation-service-practitioner-11",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0494-v1-1",
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment and funding band reviewed",
   "changedDate": "2024-07-16T00:00:00",
@@ -34,7 +34,7 @@
     "Victim liaison officer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/probation-service-practitioner-v1-1?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0494-v1-1?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.4 Public services",
   "version": "1.1",
@@ -265,8 +265,8 @@
   "lastUpdated": "2024-07-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-08-20T00:00:00 +00:00",
   "occupationCode": "OCC0494",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/probation-service-practitioner-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/probation-service-practitioner-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0494-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0494-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
