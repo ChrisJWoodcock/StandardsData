@@ -5,7 +5,7 @@
   "title": "Forest craftsperson",
   "status": "Retired",
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/683",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/forest-craftsperson-10",
+  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC1321-v1-0",
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2024-11-13T00:00:00",
@@ -28,7 +28,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-craftsperson-v1-0?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1321-v1-0?view=epa",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
   "version": "1.0",
@@ -301,8 +301,8 @@
   "lastUpdated": "2024-11-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-08-18T00:00:00 +00:00",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-craftsperson-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/forest-craftsperson-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1321-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1321-v1-0",
   "qualifications": [
     {
       "qualificationId": "ce88327c-4eea-4417-9607-98c5a68a26f8",
