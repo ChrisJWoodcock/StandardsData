@@ -8,8 +8,8 @@
   "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0385-v1-4",
   "versionNumber": "1.4",
   "change": "End point assessment revised",
-  "changedDate": "2025-01-13T00:00:00",
-  "earliestStartDate": "2024-09-13T00:00:00",
+  "changedDate": "2024-09-25T00:00:00",
+  "earliestStartDate": "2024-09-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Managing teams and projects in line with a private, public, or voluntary organisation's operational or departmental strategy.",
@@ -291,11 +291,11 @@
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Management and Administration",
-  "cluster": "Business manager",
+  "cluster": "Business Manager",
   "clusterId": "25",
   "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
   "createdDate": "2025-01-13T16:42:45 +00:00",
-  "lastUpdated": "2025-01-13T00:00:00 +00:00",
+  "lastUpdated": "2024-09-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-06-01T00:00:00 +00:00",
   "occupationCode": "OCC0385",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0385-v1-4?view=standard#OccupationalStandard",
@@ -742,5 +742,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-01-13T00:00:00"
+  "publishDate": "2024-09-25T00:00:00"
 }
