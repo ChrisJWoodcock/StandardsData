@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 57,
   "referenceNumber": "ST0205",
+  "learningAimClassCode": "",
   "title": "Gas network craftsperson",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/57",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0205-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0205",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Retired",
   "changedDate": "2015-10-22T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "utilities",
@@ -66,6 +69,7 @@
   "tbReference": "TB0454",
   "tbMainContact": "",
   "involvedEmployers": "Scotia Gas Networks, National Grid, Northern Gas Networks, L&G Utilities Ltd, Leven Energy Services, DCD, Utilergy, CMW Utilities Ltd, Butler Construction Ltd, SSE, Morrison Utility Services, Forefront Utilities",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -76,8 +80,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Manufacturing or process maintenance operative or technician",
   "clusterId": "71",
   "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-09-10T10:47:27 +00:00",
@@ -98,12 +102,12 @@
     {
       "optionId": "204f0495-3478-448c-8c13-b1483cde011b",
       "title": "Emergency Response Craftsperson",
-      "occupationCode": ""
+      "occupationCode": "OCC0205A"
     },
     {
       "optionId": "797b8577-3099-4df9-bed2-c3a4baccb464",
       "title": "Network Pipelines Maintenance Craftsperson",
-      "occupationCode": ""
+      "occupationCode": "OCC0205D"
     },
     {
       "optionId": "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5",
