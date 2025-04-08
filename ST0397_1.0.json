@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 332,
   "referenceNumber": "ST0397",
+  "learningAimClassCode": "",
   "title": "Animal care and welfare assistant",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/332",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0397-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0397",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Retired",
   "changedDate": "2018-11-19T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Animal care and welfare assistant",
@@ -78,6 +81,7 @@
   "tbReference": "TB0545",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
   "involvedEmployers": "Amazing Animals, Blue Cross, Cats Protection, 1st Choice Animals Ltd, Guide Dogs for the Blind, RSPCA, Royal Army Veterinary Corps, Sequani Ltd, MRC Harwell Institute, Pet Industry Federation, Battersea Dogs and Cats Home, A-Z Aminals, Dogs Trust, Greyhound Board of Great Britain, NASDU",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -98,7 +102,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Animal Care and Management",
-  "cluster": "Animal Care and Welfare Assistant",
+  "cluster": "Animal care and welfare assistant",
   "clusterId": "148",
   "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2020-09-24T15:38:50 +00:00",
@@ -114,42 +118,42 @@
     {
       "optionId": "0097f9a4-5faf-4ae6-8bfb-066433e227f3",
       "title": "Animal Interaction and Handling",
-      "occupationCode": ""
+      "occupationCode": "OCC0397A"
     },
     {
       "optionId": "471271a2-6d61-44b3-8e3a-28ba53162636",
       "title": "Breeding",
-      "occupationCode": ""
+      "occupationCode": "OCC0397B"
     },
     {
       "optionId": "213eec93-e1f0-46b7-9140-b4c3c40e8f0b",
       "title": "Movement and Transportation",
-      "occupationCode": ""
+      "occupationCode": "OCC0397C"
     },
     {
       "optionId": "a52d627a-a27e-4cb0-891e-0f84c3277017",
       "title": "Operational/Reception Duties",
-      "occupationCode": ""
+      "occupationCode": "OCC0397D"
     },
     {
       "optionId": "48b9633e-59d9-41fb-8f5e-d54d81681617",
       "title": "Rehoming",
-      "occupationCode": ""
+      "occupationCode": "OCC0397E"
     },
     {
       "optionId": "7502c724-c875-420c-bb22-e76fc9dc1a16",
       "title": "Veterinary Care Support",
-      "occupationCode": ""
+      "occupationCode": "OCC0397F"
     },
     {
       "optionId": "f56d111d-1e4e-418f-aa2d-cddc3595c6ec",
       "title": "Wildlife Rehabilitation",
-      "occupationCode": ""
+      "occupationCode": "OCC0397G"
     },
     {
       "optionId": "15377771-c1a5-4332-979b-a50b4b196ca1",
       "title": "Working Dog Handler",
-      "occupationCode": ""
+      "occupationCode": "OCC0397H"
     }
   ],
   "regulationDetail": [],
