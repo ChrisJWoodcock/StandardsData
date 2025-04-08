@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 50,
   "referenceNumber": "ST0331",
+  "learningAimClassCode": "",
   "title": "Chartered surveyor (degree)",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/50",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0331-v1-1",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0331",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard and End-point assessment plan revised. The funding band for this standard has been reviewed and remains at £27000. (May-2018).",
   "changedDate": "2016-05-26T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 60,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "property",
@@ -60,6 +63,7 @@
   "tbReference": "TB0001",
   "tbMainContact": "christina.hirst@chconsultancy.com",
   "involvedEmployers": "Gardiner and Theobald, Axis, DTZ, Faithorn Farrell Timms, DSB Construction Consultants, Valuation Office Agency, Transport for London, EC Harris, Martin Arnold Associates, Collier & Madge & CBRE",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -68,7 +72,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "cluster": "Design and surveying professional",
   "clusterId": "40",
   "clusterDescription": "Building/structure design, research, commercial cost management, contracts management with a wide range of knowledge of current technology developments and options, contracts, procurement and tracking. Consults with clients to determine functional and spatial requirements of new or renovated structures",
   "createdDate": "2020-10-05T12:35:35 +00:00",
@@ -93,17 +97,17 @@
     {
       "optionId": "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb",
       "title": "Building Surveying",
-      "occupationCode": ""
+      "occupationCode": "OCC0331A"
     },
     {
       "optionId": "d41c0c85-2fd2-4907-b517-6704e098207c",
       "title": "Property",
-      "occupationCode": ""
+      "occupationCode": "OCC0331B"
     },
     {
       "optionId": "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803",
       "title": "Quantity Surveying & Project Management",
-      "occupationCode": ""
+      "occupationCode": "OCC0331C"
     }
   ],
   "regulationDetail": [],
