@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 518,
   "referenceNumber": "ST0270",
+  "learningAimClassCode": "",
   "title": "Roofer",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/518",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0270-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0270",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-03-27T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [],
   "jobRoles": [
@@ -314,6 +317,7 @@
   "tbReference": "TB0323",
   "tbMainContact": "AndyRowlands@nfrc.co.uk",
   "involvedEmployers": "Associated Roofing Maintenance, SPV Roofing, Swift Roofing, Bracknell Roofing, Avonside Group, Barclay Roofing, Jordan Heritage Roofing, Redwing Roofing,BRC Roofing, Advanced Roofing, Capital Roofing, Cladding Services, Lakesmere, Fildes Roofing, Oxford Asphalt, Hodgeson Sayers",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -342,17 +346,17 @@
     {
       "optionId": "dd4d2ef3-b527-4fa3-b844-e3dbf3125f3e",
       "title": "Roof Slater & Tiler",
-      "occupationCode": ""
+      "occupationCode": "OCC0270B"
     },
     {
       "optionId": "16213292-8ef3-4bae-a9e2-0f7d479836fc",
       "title": "Waterproof Membranes Installer",
-      "occupationCode": ""
+      "occupationCode": "OCC0270C"
     },
     {
       "optionId": "6cc30d1c-e45c-47bf-895f-9d52043c94df",
       "title": "Roof Sheeter & Cladder",
-      "occupationCode": ""
+      "occupationCode": "OCC0270A"
     }
   ],
   "regulationDetail": [],
