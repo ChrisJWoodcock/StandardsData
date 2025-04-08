@@ -2,10 +2,12 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 151,
   "referenceNumber": "ST0217",
+  "learningAimClassCode": "",
   "title": "Senior healthcare support worker",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/151",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0217-v1-3",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0217",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "End‐point assessment plan, standard and funding revised",
   "changedDate": "2023-01-24T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "health",
@@ -696,6 +699,7 @@
   "tbReference": "TB0052",
   "tbMainContact": "healthcare.trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Care UK, Derby Teaching Hospital NHS Foundation Trust, Great Ormond Street Hospital for Children NHS Foundation Trust, Health Education England, HEE - Shape of Caring, Ipswich Hospital NHS Trust, Institute of Vocational Learning and Workforce Research, Mid Essex Hospitals NHS Trust, Ministry of Defence (MoD), Norfolk & Suffolk Workforce Partnership (HEE East of England), Norfolk and Norwich University Hospitals NHS Foundation Trust, Norfolk and Suffolk NHS Foundation Trust, North Bristol NHS Trust, North East London Foundation Trust (Care City), North Somerset Community Partnership, Poole Hospital NHS Foundation Trust, Royal College of Midwives, Royal College of Nursing, Skills for Health, Somerset Partnership NHS Foundation Trust, South Devon Healthcare NHS Foundation Trust, Southern Health NHS Foundation Trust, St Christopher’s Hospice, St Giles Hospice, The Royal Devon & Exeter NHS Foundation Trust, UNISON, University Hospital Birmingham, University Hospital Southampton NHS FT, Walsall Hospitals NHS Trust, Yeovil District Hospital NHS Foundation Trust",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -711,7 +715,7 @@
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Assistant",
+  "cluster": "Health assistant",
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2022-08-08T10:23:19 +00:00",
@@ -1167,32 +1171,32 @@
     {
       "optionId": "3121e403-089c-4ecb-a6cd-4e13daa3cb2f",
       "title": "Adult nursing support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217A"
     },
     {
       "optionId": "72365bf1-de6b-48fb-86dc-c4aaa1aeca79",
       "title": "Maternity support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217D"
     },
     {
       "optionId": "6736d588-237a-439d-abda-775399d570b4",
       "title": "Theatre support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217F"
     },
     {
       "optionId": "b278f018-8dea-4028-a6dc-49cdd8242ab8",
       "title": "Mental health support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217E"
     },
     {
       "optionId": "dfb1e859-6dbd-404e-b5a9-69d4cae83a17",
       "title": "Children and young people support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217C"
     },
     {
       "optionId": "6fc378c2-7c2e-4cee-a5db-bf961e39baa8",
       "title": "Allied health profession therapy support",
-      "occupationCode": ""
+      "occupationCode": "OCC0217B"
     }
   ],
   "regulationDetail": [],
