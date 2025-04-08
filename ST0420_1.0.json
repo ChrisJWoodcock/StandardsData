@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 493,
   "referenceNumber": "ST0420",
+  "learningAimClassCode": "",
   "title": "Lean manufacturing operative",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/493",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0420-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0420",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2022-07-27T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "manufacturing",
@@ -62,6 +65,7 @@
   "tbReference": "TB077 ",
   "tbMainContact": "Ian.Green@nissan-nmuk.co.uk",
   "involvedEmployers": "Nissan Motor Manufacturing, Toyota Motor Manufacturing, Calsonic Kansei, ADIANT, DHL, JCB, NAC Group, Caterpillar, Perkins, Jaguar Landrover, Bacoll, BMW, Vision Labs, Cargill Meats Limited, Nifty Lift",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -69,8 +73,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing Operative",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Manufacturing operative",
   "clusterId": "264",
   "clusterDescription": "Routine assembly of manufactured products",
   "createdDate": "2017-11-14T17:09:00 +00:00",
@@ -86,22 +90,22 @@
     {
       "optionId": "7cffb2dc-0f55-4504-9291-93476e64f3b6",
       "title": "Inspection/Quality",
-      "occupationCode": ""
+      "occupationCode": "OCC0420A"
     },
     {
       "optionId": "1b1b35b0-af3c-4762-840b-709f20cbf6f7",
       "title": "Logistics/Material",
-      "occupationCode": ""
+      "occupationCode": "OCC0420B"
     },
     {
       "optionId": "cdf6a5c8-19c6-41c0-8bf1-91f34d5a1269",
       "title": "Production Processing/Finishing",
-      "occupationCode": ""
+      "occupationCode": "OCC0420C"
     },
     {
       "optionId": "c0110d21-4cd2-4fa1-b7a2-b69f43afe542",
       "title": "Production/Assembly",
-      "occupationCode": ""
+      "occupationCode": "OCC0420D"
     }
   ],
   "regulationDetail": [],
