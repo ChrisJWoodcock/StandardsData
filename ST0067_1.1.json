@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 134,
   "referenceNumber": "ST0067",
+  "learningAimClassCode": "",
   "title": "Bus and coach engineering technician",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/134",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0067-v1-1",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0067",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "The funding band for this standard has been reviewed as part of the apprenticeship funding band review. The new funding band is £16000",
   "changedDate": "2022-08-22T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "transport",
@@ -314,6 +317,7 @@
   "tbReference": "Tb0015 ",
   "tbMainContact": "jon.harman@firstbus.co.uk ",
   "involvedEmployers": "Arriva Plc, ISUZU Truck (UK) Limited, Iveco Ltd, London General Services Ltd, MAN Truck and Bus Ltd, Mercedes-Benz UK Ltd, Nottingham City Transport Ltd, Renault Trucks UK Limited, SCANIA (Great Britain) Ltd, Stagecoach Group PLC, Volvo Group UK Limited, People 1st",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -321,8 +325,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-09-22T14:24:08 +00:00",
@@ -338,22 +342,22 @@
     {
       "optionId": "8b2c27d9-cf08-4de7-9d7d-c2853a3269b5",
       "title": "Coach Builder",
-      "occupationCode": ""
+      "occupationCode": "OCC0067A"
     },
     {
       "optionId": "12d4cfce-63d8-43b8-a1bb-1ca95e8966a4",
       "title": "Electrical",
-      "occupationCode": ""
+      "occupationCode": "OCC0067B"
     },
     {
       "optionId": "1da1c2a1-b9e4-4d99-8549-e2acd7467be8",
       "title": "Mechanical",
-      "occupationCode": ""
+      "occupationCode": "OCC0067C"
     },
     {
       "optionId": "3a44c313-b0d0-4a63-bf6b-932c991281d1",
       "title": "Mechelec",
-      "occupationCode": ""
+      "occupationCode": "OCC0067D"
     }
   ],
   "regulationDetail": [],
