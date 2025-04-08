@@ -2,10 +2,12 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 616,
   "referenceNumber": "ST0770",
+  "learningAimClassCode": "",
   "title": "Sports coach",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/616",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0770-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0770",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2022-11-17T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "coaching",
@@ -442,6 +445,7 @@
   "tbReference": "TB0378",
   "tbMainContact": "natasha.eason@cimspa.co.uk",
   "involvedEmployers": "Places for People Leisure, CIMSPA, GLL, Fit for Sport Limited, British Gymnastics, StreetGames, Jubilee Trust, Lawn Tennis Association, South Downs Leisure, The Football Association, Watford Borough Council, Everyone Active, EMD UK, Sport England, Association of Colleges, UK Active, Sport Scotland, UK Sport, University of Brighton, County Sports Partnership Network, UK Coaching, Department of Digital, Culture, Media and Sport",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -455,8 +459,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Community Exercise, Physical Activity, Sport and Health",
-  "cluster": "Exercise, Fitness and Health Specialist",
+  "pathway": "Community exercise, physical activity, sport and health",
+  "cluster": "Exercise, fitness and health specialist",
   "clusterId": "215",
   "clusterDescription": "Develop and deliver programmes which significantly enhance the performance of an individual or team",
   "createdDate": "2020-12-23T10:33:56 +00:00",
@@ -855,17 +859,17 @@
     {
       "optionId": "6efb6427-4487-4c11-88a4-bc9b47d98fe8",
       "title": "High Performance Coach",
-      "occupationCode": ""
+      "occupationCode": "OCC0770B"
     },
     {
       "optionId": "1c96cfd3-b7de-4863-9aea-9043e0fca989",
       "title": "Community Coach",
-      "occupationCode": ""
+      "occupationCode": "OCC0770A"
     },
     {
       "optionId": "c0133fe2-1fb2-4a53-b645-220040193b28",
       "title": "School Coach",
-      "occupationCode": ""
+      "occupationCode": "OCC0770C"
     }
   ],
   "regulationDetail": [],
