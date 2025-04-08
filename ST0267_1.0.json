@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 219,
   "referenceNumber": "ST0267",
+  "learningAimClassCode": "",
   "title": "Lifting technician",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/219",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0267-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0267",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2023-07-18T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Lifting Technician",
@@ -229,6 +232,7 @@
   "tbReference": "TB0578",
   "tbMainContact": "sjbell@laingorourke.com",
   "involvedEmployers": "Select Plant Hire, Laing O’Rourke, Ainscough, BAM Nuttall, Emerson Cranes, Baldwins Crane Hire Ltd, Bronzeshield Lifting Ltd, Expanded Structures, PJ Carey (Contractors) Ltd, Balfour Beatty",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -257,17 +261,17 @@
     {
       "optionId": "a38767b9-6236-420b-8223-d7c13e2daa5d",
       "title": "Crawler Crane Operator",
-      "occupationCode": ""
+      "occupationCode": "OCC0267A"
     },
     {
       "optionId": "df6b122e-a096-4b61-a2a5-0940f2711d78",
       "title": "Mobile Crane Operator",
-      "occupationCode": ""
+      "occupationCode": "OCC0267B"
     },
     {
       "optionId": "6e4c16c4-b485-4b0c-9e6c-5c3c790a6f30",
       "title": "Tower Crane Operator",
-      "occupationCode": ""
+      "occupationCode": "OCC0267C"
     }
   ],
   "regulationDetail": [],
