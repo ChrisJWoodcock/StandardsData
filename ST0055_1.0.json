@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 72,
   "referenceNumber": "ST0055",
+  "learningAimClassCode": "",
   "title": "Bespoke tailor and cutter",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/72",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0055-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0055",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery.\nThe funding band for this standard has been reviewed and remains at £15,000. (2018-10-03)",
   "changedDate": "2023-10-18T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "fashion",
@@ -323,6 +326,7 @@
   "tbReference": "TB0101",
   "tbMainContact": "su.thomas@hotmail.co.uk",
   "involvedEmployers": "Henry Poole, Anderson & Sheppard, Dege and Skinner, Gieves and Hawkes, Chittleborough and Morgan, Norton and sons, Welsh and Jeffries, Richard Anderson, Meyer and Mortimer, Kathryn Sargent, Davies & Son, Lutwyche",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -339,7 +343,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
-  "cluster": "Heritage Specialist",
+  "cluster": "Heritage specialist",
   "clusterId": "182",
   "clusterDescription": "A specialist in using traditional hand craft skills to shape and sculpt natural materials.",
   "createdDate": "2017-09-22T14:24:44 +00:00",
@@ -355,12 +359,12 @@
     {
       "optionId": "c95fbd57-25e7-451f-bd41-4c0cd263e7c9",
       "title": "Cutter",
-      "occupationCode": ""
+      "occupationCode": "OCC0055A"
     },
     {
       "optionId": "66397ce5-5335-4d1c-8ac9-33dd79471547",
       "title": "Tailor",
-      "occupationCode": ""
+      "occupationCode": "OCC0055B"
     }
   ],
   "regulationDetail": [],
