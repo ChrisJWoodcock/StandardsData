@@ -2,10 +2,12 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 315,
   "referenceNumber": "ST0414",
+  "learningAimClassCode": "",
   "title": "Military engineering construction technician",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/315",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0414-v1-2",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0414",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Funding band revised",
   "changedDate": "2022-09-23T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Military construction engineering technician",
@@ -715,6 +718,7 @@
   "tbReference": "TB0256",
   "tbMainContact": "Peter.Capon@btinternet.com",
   "involvedEmployers": "The Army Royal Engineers",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -1231,27 +1235,27 @@
     {
       "optionId": "e2de59a2-bb48-4285-b4de-d70cf21aa3ec",
       "title": "Carpenter & Joiner",
-      "occupationCode": ""
+      "occupationCode": "OCC0414C"
     },
     {
       "optionId": "8151752e-e273-44e6-8b90-e0f6a05a8f79",
       "title": "Bricklayer & Concreter",
-      "occupationCode": ""
+      "occupationCode": "OCC0414A"
     },
     {
       "optionId": "613e34dd-ca21-47df-aac1-a0a97627ae58",
       "title": "Building & Structural Finisher",
-      "occupationCode": ""
+      "occupationCode": "OCC0414B"
     },
     {
       "optionId": "3f3feef1-7044-424c-9217-6be2228eb08d",
       "title": "Plumbing & Heating Engineer",
-      "occupationCode": ""
+      "occupationCode": "OCC0414E"
     },
     {
       "optionId": "05a859f9-2af9-40c3-8011-235c320712a6",
       "title": "Plant Operator & Mechanic",
-      "occupationCode": ""
+      "occupationCode": "OCC0414D"
     }
   ],
   "regulationDetail": [],
