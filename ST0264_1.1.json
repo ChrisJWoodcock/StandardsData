@@ -2,10 +2,12 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 239,
   "referenceNumber": "ST0264",
+  "learningAimClassCode": "",
   "title": "Carpentry and joinery",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/239",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0264-v1-1",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0264",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard and End-point assessment plan revised. Funding band revised 30.3.2021. (First published 18.09.2020).\n\nFunding band was signed off by the Minister in the December but then clashed with the introduction of a 3 month notice period. This came in 29th March. It was accepted that those starting between October and March would still follow the new documents but being funding at 12k.",
   "changedDate": "2023-07-11T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "timber",
@@ -244,6 +247,7 @@
   "tbReference": "TB0035",
   "tbMainContact": "tyson@lignumassociates.com",
   "involvedEmployers": "Lignum associates, Houghtons of York, Bedford College, Leeds College of Building, Building Craft College, Kiersons, Brian Fell (Leven)\nT&T Roofline, Goodfellow Roofing, Derry Construction, Seddon, H&H Joiners & Builders",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -529,12 +533,12 @@
     {
       "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
       "title": "Site Carpenter",
-      "occupationCode": ""
+      "occupationCode": "OCC0264B"
     },
     {
       "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
       "title": "Architectural Joiner",
-      "occupationCode": ""
+      "occupationCode": "OCC0264A"
     }
   ],
   "regulationDetail": [],
