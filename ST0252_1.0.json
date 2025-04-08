@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 404,
   "referenceNumber": "ST0252",
+  "learningAimClassCode": "",
   "title": "Lift and escalator electromechanic",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/404",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0252-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0252",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2022-08-17T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "installation",
@@ -414,6 +417,7 @@
   "tbReference": "TB0239 ",
   "tbMainContact": "enquiries@leia.co.uk",
   "involvedEmployers": "ANSA Elevators Ltd, Apex Lifts Ltd, Bucher Hydraulics, Classic Lifts Ltd, Global Lift Equipment, Guideline Lift Services Ltd, Jackson Lift Group, KONE plc, Liftec Lifts Ltd, London Underground, Northern Elevator Ltd, Otis Ltd,  Pickerings Lifts, Schindler Ltd, Stannah Lifts Ltd, ThyssenKrupp Elevator UK Ltd, Titan Elevators Ltd, LECS Ltd, Society of Operations Engineers (Allianz), L.I.T.S, National Lift Tower (Taylor Lifts Ltd), Lift &amp; Escalator Industry Association",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -425,8 +429,8 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2017-11-14T17:09:32 +00:00",
@@ -442,22 +446,22 @@
     {
       "optionId": "0b4b96eb-9fbf-4d55-a1b9-d30f7172ce79",
       "title": "Lift Installation",
-      "occupationCode": ""
+      "occupationCode": "OCC0252C"
     },
     {
       "optionId": "9446eb86-abb1-4b43-ac5b-9882b215e2f8",
       "title": "Escalator and Moving Walk Installation",
-      "occupationCode": ""
+      "occupationCode": "OCC0252A"
     },
     {
       "optionId": "f6778835-dd05-4421-b865-7b2ee71cff72",
       "title": "Lift Service and Repair",
-      "occupationCode": ""
+      "occupationCode": "OCC0252D"
     },
     {
       "optionId": "ff1c4f4d-8d99-4339-8c4a-bd3937ec98cd",
       "title": "Escalator and Moving Walk Service and Repair",
-      "occupationCode": ""
+      "occupationCode": "OCC0252B"
     }
   ],
   "regulationDetail": [],
