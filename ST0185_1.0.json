@@ -2,10 +2,12 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 31,
   "referenceNumber": "ST0185",
+  "learningAimClassCode": "",
   "title": "Senior financial services customer adviser",
   "status": "Retired",
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/31",
-  "qualificationStandardUrl": "https://instituteforapprenticeships.org/qualifications/finder/OCC0185-v1-0",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0185",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Retired",
   "changedDate": "2022-04-08T00:00:00",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
     "financial advice",
@@ -65,6 +68,7 @@
   "tbReference": "TB0189 ",
   "tbMainContact": "kathrynmarshall@halifax.co.uk",
   "involvedEmployers": "Barclays, Cambridge Building Society, HSBC, Leeds Building Society, Lloyds Banking Group, Nationwide Building Society, RBS, Santander, TSB Bank, Virgin Money, Skipton Building Society, Geoban, Canada Life",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -76,7 +80,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Financial",
-  "cluster": "Financial Services Administrator",
+  "cluster": "Financial services administrator",
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2020-10-02T12:11:46 +00:00",
@@ -92,7 +96,7 @@
     {
       "optionId": "c2153b05-6ba3-49cd-b424-33f340aba1eb",
       "title": "Team leadership",
-      "occupationCode": ""
+      "occupationCode": "OCC0185A"
     },
     {
       "optionId": "313636aa-00f6-4d49-bb13-abb090186790",
