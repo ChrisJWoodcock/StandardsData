@@ -3,7 +3,7 @@
   "larsCode": 372,
   "referenceNumber": "ST0504",
   "learningAimClassCode": "",
-  "title": "Floorlayer -Textile and Resilient",
+  "title": "Floorlayer - textile and resilient",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0504",
@@ -11,7 +11,7 @@
   "versionNumber": "",
   "change": "Occupational standard and end-point assessment plan revised.",
   "changedDate": "2025-05-16T00:00:00",
-  "earliestStartDate": "2024-08-05T00:00:00",
+  "earliestStartDate": "2025-06-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Installing carpets, vinyl, linoleum and rubber.",
@@ -885,5 +885,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-16T00:00:00"
+  "publishDate": "2025-06-16T00:00:00"
 }
