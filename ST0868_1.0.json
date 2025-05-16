@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-06-10T00:00:00",
+  "changedDate": "2025-04-25T00:00:00",
   "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -251,18 +251,19 @@
     "Childrens Centre Staff"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
   "cluster": "Children, young people and families manager",
   "clusterId": "168",
-  "clusterDescription": "Achieve a positive and lasting change in the status of client's lives and seek to raise the effectiveness of the services provided through regular reviews assisted by supervision",
+  "clusterDescription": null,
   "createdDate": "2021-06-10T09:10:18 +00:00",
-  "lastUpdated": "2021-06-10T00:00:00 +00:00",
+  "lastUpdated": "2025-04-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-27T00:00:00 +00:00",
+  "banners": "&nbsp;A&nbsp;revised version&nbsp;​of this apprenticeship standard has been agreed and is available for information only at present. Further details of this and other apprenticeship standards in revision are available in the&nbsp;revisions&nbsp;status report.&nbsp;",
   "occupationCode": "OCC0868",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0868-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0868-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0868-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0868-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -753,5 +754,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-06-10T00:00:00"
+  "publishDate": "2025-04-25T00:00:00"
 }
