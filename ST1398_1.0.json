@@ -36,7 +36,7 @@
     "Machine learning operations engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1398-v1-0?view=epa",
   "ssa1": "6 Digital Technology",
   "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
@@ -109,7 +109,7 @@
     },
     {
       "knowledgeId": "ede68003-5422-4d44-8c8b-f5e6af9ea178",
-      "detail": "Principles for engineering environmental sustainable ML solutions, that support organisational strategies and objectives for environmental sustainability."
+      "detail": "Principles for engineering environmentally sustainable ML solutions, that support organisational strategies and objectives for environmental sustainability."
     },
     {
       "knowledgeId": "207c7cd8-3204-40e7-ab02-3bf71d154b52",
@@ -336,7 +336,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Ofqual is the intended EQA provider",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -360,20 +360,28 @@
     "Machine learning operations engineer"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "&lt;p&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Business information professional",
   "clusterId": "233",
-  "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
-  "createdDate": "2025-02-10T09:09:10 +00:00",
+  "clusterDescription": null,
+  "createdDate": "2025-05-02T11:14:35 +00:00",
   "lastUpdated": "2024-12-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC1398",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1398-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1398-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1398-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "BCS, The Chartered Institute for IT ",
+      "level": "Advanced RITTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
   "duties": [
     {
       "dutyID": "6e70aeb4-2447-480a-96a4-6624da5a19bb",
